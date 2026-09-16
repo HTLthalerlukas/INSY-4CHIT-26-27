@@ -1,0 +1,14 @@
+C:\Users\thale\Documents\GitHub\INSY-4CHIT-26-27\DataCSV\DataCSV\bin\Debug\net10.0\DataCSV.exe
+C:\Users\thale\Documents\GitHub\INSY-4CHIT-26-27\DataCSV\DataCSV\bin\Debug\net10.0\DataCSV.deps.json
+C:\Users\thale\Documents\GitHub\INSY-4CHIT-26-27\DataCSV\DataCSV\bin\Debug\net10.0\DataCSV.runtimeconfig.json
+C:\Users\thale\Documents\GitHub\INSY-4CHIT-26-27\DataCSV\DataCSV\bin\Debug\net10.0\DataCSV.dll
+C:\Users\thale\Documents\GitHub\INSY-4CHIT-26-27\DataCSV\DataCSV\bin\Debug\net10.0\DataCSV.pdb
+C:\Users\thale\Documents\GitHub\INSY-4CHIT-26-27\DataCSV\DataCSV\obj\Debug\net10.0\DataCSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thale\Documents\GitHub\INSY-4CHIT-26-27\DataCSV\DataCSV\obj\Debug\net10.0\DataCSV.AssemblyInfoInputs.cache
+C:\Users\thale\Documents\GitHub\INSY-4CHIT-26-27\DataCSV\DataCSV\obj\Debug\net10.0\DataCSV.AssemblyInfo.cs
+C:\Users\thale\Documents\GitHub\INSY-4CHIT-26-27\DataCSV\DataCSV\obj\Debug\net10.0\DataCSV.csproj.CoreCompileInputs.cache
+C:\Users\thale\Documents\GitHub\INSY-4CHIT-26-27\DataCSV\DataCSV\obj\Debug\net10.0\DataCSV.dll
+C:\Users\thale\Documents\GitHub\INSY-4CHIT-26-27\DataCSV\DataCSV\obj\Debug\net10.0\refint\DataCSV.dll
+C:\Users\thale\Documents\GitHub\INSY-4CHIT-26-27\DataCSV\DataCSV\obj\Debug\net10.0\DataCSV.pdb
+C:\Users\thale\Documents\GitHub\INSY-4CHIT-26-27\DataCSV\DataCSV\obj\Debug\net10.0\DataCSV.genruntimeconfig.cache
+C:\Users\thale\Documents\GitHub\INSY-4CHIT-26-27\DataCSV\DataCSV\obj\Debug\net10.0\ref\DataCSV.dll

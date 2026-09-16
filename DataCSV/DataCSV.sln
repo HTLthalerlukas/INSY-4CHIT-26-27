@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataCSV", "DataCSV\DataCSV.csproj", "{BB7E0885-2AD6-4DF4-BC0A-BEC66421EBD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB7E0885-2AD6-4DF4-BC0A-BEC66421EBD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB7E0885-2AD6-4DF4-BC0A-BEC66421EBD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB7E0885-2AD6-4DF4-BC0A-BEC66421EBD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB7E0885-2AD6-4DF4-BC0A-BEC66421EBD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
