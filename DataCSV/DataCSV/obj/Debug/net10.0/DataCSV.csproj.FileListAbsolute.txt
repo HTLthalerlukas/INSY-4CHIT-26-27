@@ -12,3 +12,4 @@ C:\Users\thale\Documents\GitHub\INSY-4CHIT-26-27\DataCSV\DataCSV\obj\Debug\net10
 C:\Users\thale\Documents\GitHub\INSY-4CHIT-26-27\DataCSV\DataCSV\obj\Debug\net10.0\DataCSV.pdb
 C:\Users\thale\Documents\GitHub\INSY-4CHIT-26-27\DataCSV\DataCSV\obj\Debug\net10.0\DataCSV.genruntimeconfig.cache
 C:\Users\thale\Documents\GitHub\INSY-4CHIT-26-27\DataCSV\DataCSV\obj\Debug\net10.0\ref\DataCSV.dll
+C:\Users\thale\Documents\GitHub\INSY-4CHIT-26-27\DataCSV\DataCSV\obj\Debug\net10.0\DataCSV.sourcelink.json
